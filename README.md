@@ -1,2 +1,2 @@
-# PIP-EBT
-PIP-EBT: a Pro-inflammatory Peptide Prediction Method Based On Image Feature Enhancement Strategy And Bidirectional Temporal Convolutional Network
+# EBTIL17
+EBTIL17: A model for predicting IL-17 inducing peptides using feature enhancement strategy and bidirectional temporal convolutional network
